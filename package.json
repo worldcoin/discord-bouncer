@@ -16,7 +16,7 @@
     "eslint": "8.33.0",
     "eslint-config-next": "13.1.6",
     "next": "13.1.6",
-    "next-auth": "^4.18.8",
+    "next-auth": "^4.19.2",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-use-scroll-direction": "^0.1.0",
