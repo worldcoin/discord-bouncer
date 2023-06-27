@@ -4,7 +4,7 @@
     "@aws-sdk/util-dynamodb": "^3.276.0",
     "@discordjs/builders": "^1.4.0",
     "@discordjs/rest": "^1.5.0",
-    "@next/font": "13.1.1",
+    "@next/font": "13.4.3",
     "@radix-ui/react-scroll-area": "^1.0.2",
     "@types/node": "18.11.18",
     "@types/react": "18.0.26",
