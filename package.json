@@ -2,7 +2,7 @@
   "dependencies": {
     "@aws-sdk/client-dynamodb": "^3.276.0",
     "@aws-sdk/util-dynamodb": "^3.276.0",
-    "@discordjs/builders": "^1.4.0",
+    "@discordjs/builders": "^1.6.0",
     "@discordjs/rest": "^1.5.0",
     "@floating-ui/react": "^0.26.3",
     "@headlessui/react": "^1.7.17",
